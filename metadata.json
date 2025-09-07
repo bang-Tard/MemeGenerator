@@ -1,0 +1,5 @@
+{
+  "name": "Viral Meme Generator",
+  "description": "An AI-powered application that generates viral memes by combining user-defined characters with trending topics and reactions using the Gemini API.",
+  "requestFramePermissions": []
+}
